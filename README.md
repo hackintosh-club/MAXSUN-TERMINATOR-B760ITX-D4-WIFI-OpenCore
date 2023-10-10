@@ -24,7 +24,7 @@
 - 独    显: 蓝宝石 AMD Radeon RX6600XT 白金版OC
 - 声    卡: 瑞昱 ALC897
 - 有线网卡: 瑞昱 8125 2.5GbE
-- 无线网卡: 英特尔 AX211 （EFI中使用支持Ventura版本的）
+- 无线网卡: 英特尔 AX211 （EFI中WiFi驱动适用于Ventura版本）
 - 机    箱:  闪鳞 S300
 - 电    源: 钢影Toughpower SFX 650W金牌认证电源
 
