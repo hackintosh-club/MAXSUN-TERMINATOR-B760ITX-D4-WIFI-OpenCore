@@ -31,15 +31,15 @@
 ### BIOS设置
 
 ```
-高级
-  |-- VT-d：关闭
-  |-- Above 4G decoding：开启
-  |-- Resizable Bar：开启
-	|-- EHCI/XHCI Hand-off：开启
-  |-- CSM Support：关闭
-  |-- Fast Boot：关闭
-	|-- Secure Boot：关闭
-	|-- CFG LOCK：关闭
+
+|-- VT-d：关闭
+|-- Above 4G decoding：开启
+|-- Resizable Bar：开启
+|-- EHCI/XHCI Hand-off：开启
+|-- CSM Support：关闭
+|-- Fast Boot：关闭
+|-- Secure Boot：关闭
+|-- CFG LOCK：关闭
 
 ```
 
