@@ -2,8 +2,6 @@
 
 ![image](ScreenShot/MS-B760I.png)
 
-### [ENGLISH](https://github.com/hackintosh-club/JINGYUE-B760I-SNOW-DREAM-OpenCore)
-
 ### OpenCore
 
 [OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
