@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-	<dict>
-		<key>#About</key>
-		<string>B站UP：乌龙蜜桃来一打</string>
-		<key>#Website</key>
-		<string>https://github.com/hackintosh-club/MAXSUN-TERMINATOR-B760ITX-D4-WIFI-OpenCore</string>
+<dict>
+	<key>#About</key>
+	<string>B站UP：乌龙蜜桃来一打</string>
+	<key>#Website</key>
+	<string>https://github.com/hackintosh-club/MAXSUN-TERMINATOR-B760ITX-D4-WIFI-OpenCore</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -797,7 +797,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>blackosx\BsxM1</string>
+			<string>OC\m1</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
