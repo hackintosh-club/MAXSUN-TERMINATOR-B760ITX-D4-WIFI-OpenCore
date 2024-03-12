@@ -4,7 +4,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### macOS
 
@@ -32,9 +32,9 @@
 
 ```
 
-|-- VT-d：关闭
+|-- VT-d：开启
 |-- Above 4G decoding：开启
-|-- Resizable Bar：开启
+|-- Resizable Bar：关闭
 |-- EHCI/XHCI Hand-off：开启
 |-- CSM Support：关闭
 |-- Fast Boot：关闭
