@@ -4,12 +4,12 @@
 
 ### OpenCore
 
-[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.1](https://github.com/acidanthera/OpenCorePkg)
 
 ### macOS
 
 - macOS Monterey 12.x
-- macOS Ventura  13.x 
+- macOS Ventura 13.x
 - macOS Sonoma 14.x
 
 ### 硬件
@@ -18,15 +18,15 @@
 - Bios 版本: 1.8D（2023-06-26）
 - 处理器: 英特尔12代 i7-12700
 - 内    存: 玖合 32G*2 DDR4 3200MHz
-- 硬    盘: Crucial 英睿达 P5 1TB 3D NAND NVMe
+- 硬    盘: WD_BLACK SN850X 2000GB
 - 硬    盘: 京东京造 J.ZAO QL SERIES 1TB SSD
 - 核    显: 英特尔超核心显卡730 (仅在Windows中可以使用)
 - 独    显: 蓝宝石 AMD Radeon RX6600XT 白金版OC
 - 声    卡: 瑞昱 ALC897
 - 有线网卡: 瑞昱 8125 2.5GbE
-- 无线网卡: 英特尔 AX211 （EFI中WiFi驱动适用于Ventura版本）
+- 无线网卡: 英特尔 AX211 （EFI中WiFi驱动适用于Sonoma 14.4以上版本）
 - 机    箱:  闪鳞 S300
-- 电    源: 钢影Toughpower SFX 650W金牌认证电源
+- 电    源: 钢影 Toughpower SFX 650W金牌认证电源
 
 ### BIOS设置
 
