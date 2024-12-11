@@ -4,13 +4,14 @@
 
 ### OpenCore
 
-[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.3](https://github.com/acidanthera/OpenCorePkg)
 
 ### macOS
 
-- macOS Monterey 12.x
-- macOS Ventura  13.x 
-- macOS Sonoma 14.x
+- macOS Monterey  12.x
+- macOS Ventura     13.x 
+- macOS Sonoma    14.x
+- macOS Sequoia    15.x
 
 ### 硬件
 
@@ -24,7 +25,7 @@
 - 独    显: 蓝宝石 AMD Radeon RX6600XT 白金版OC
 - 声    卡: 瑞昱 ALC897
 - 有线网卡: 瑞昱 8125 2.5GbE
-- 无线网卡: 英特尔 AX211 （EFI中WiFi驱动适用于Ventura版本）
+- 无线网卡: 英特尔 AX211 （EFI中WiFi驱动需要搭配[HeliPort.dmg](https://github.com/OpenIntelWireless/HeliPort/releases/download/v2.0.0-alpha/HeliPort.dmg)使用）
 - 机    箱:  闪鳞 S300
 - 电    源: 钢影Toughpower SFX 650W金牌认证电源
 
@@ -45,7 +46,8 @@
 
 ### 注意事项
 
- - 安装成功后必须使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 或者 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
+ - 安装成功后必须使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
+ - 此EFI中的英特尔无线网卡驱动[itlwm.kext](https://github.com/OpenIntelWireless/itlwm/releases)适用于 MacOS 所有版本,连结WiFi请下载并使用[HeliPort.dmg](https://github.com/OpenIntelWireless/HeliPort/releases/download/v2.0.0-alpha/HeliPort.dmg).
 
 ### 关于本机
 
